@@ -13,6 +13,6 @@ ENDCLASS.
 
 CLASS z_class_lno_000 IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
-    out->write( 'Hello world!' ).
+    out->write( 'Hello ABAPgit world!' ).
   ENDMETHOD.
 ENDCLASS.
